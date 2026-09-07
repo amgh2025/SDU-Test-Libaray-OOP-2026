@@ -1,6 +1,0 @@
-Name : Amir
-Family : Ghomashi
-Gender : Men
-Job : SDU
-City : Sønderborg
-Street : Johansen
